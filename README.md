@@ -25,9 +25,11 @@ The project is ideal for learning how to:
 ## 📷 Preview (Optional)
 
 
-```markdown
-### 🏠 Home Page
+🏠 **Home Page**
+
 ![Home Page](screenshots/Screenshot%202025-06-20%20114150.png)
 
-### ✏️ Update Task
+✏️ **Update Task**
+
 ![Update Page](screenshots/Screenshot%202025-06-20%20120933.png)
+
