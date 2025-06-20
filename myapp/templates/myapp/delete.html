@@ -1,0 +1,10 @@
+{% extends 'myapp/base.html' %}
+{% block body %}
+<form method="post">
+    {% csrf_token %}
+    <h4>Are you sure your Task : "{{ task.name }}" is done ? </h4>
+    <button type="submit" name="action" value="yes">✅ Yes</button>
+    <button type="submit" name="action" value="no">❌ No</button>
+</form>
+
+{% endblock %}
